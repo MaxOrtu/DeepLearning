@@ -1,3 +1,3 @@
 # DeepLearning
 
-Tests and experiments of DeepLearning.
+Tests and Experiments
